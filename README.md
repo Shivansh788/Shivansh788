@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Shivansh Soni</h1>
 <h3 align="center">A passionate developer from India, always up-to-date on the latest technologies and excited to push the boundaries of development.</h3>
 <img align="right"alt="Coding"width="400"src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
@@ -21,7 +25,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div id="header" align="center"
+<div id="header" align="center" 
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
