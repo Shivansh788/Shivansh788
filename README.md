@@ -20,8 +20,7 @@
 
 - 📫 How to reach me **Shivanshsoni124gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Shivansh788/Myresume-Doc/blob/main/MyResume.pdf](https://github.com/Shivansh788/Myresume-Doc/blob/main/Resume.pdf)
-
+ <!-- 📄 Know about my experiences [https://github.com/Shivansh788/Myresume-Doc/blob/main/MyResume.pdf](https://github.com/Shivansh788/Myresume-Doc/blob/main/Resume.pdf) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
