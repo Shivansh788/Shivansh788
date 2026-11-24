@@ -1,35 +1,93 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+
+# Hi there, I'm Shivansh Soni 👋
+
+### CSE Student | Cybersecurity Enthusiast | Web Developer
+
+*Building, breaking, learning, and exploring technology.*
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Coding animation">
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shivansh788&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
 </div>
 
+---
 
-<h1 align="center">Hi 👋, I'm Shivansh Soni</h1>
-<h3 align="center">A passionate developer from India, always up-to-date on the latest technologies and excited to push the boundaries of development. </h3>
-<img align="right"alt="Coding"width="400"src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
+## 👨‍💻 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivansh788&label=Profile%20views&color=0e75b6&style=flat" alt="shivansh788" /> </p>
+I'm a Computer Science and Engineering student from India with a strong interest in understanding how technology works, building useful applications, and exploring the security side of software.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🎓 Pursuing Computer Science & Engineering.
+- 🔐 Interested in Cybersecurity, Network Security, and System Security.
+- 🌐 Exploring Web Development and building practical projects.
+- 🛡️ Currently exploring Next-Generation Firewalls (NGFW).
+- 🤖 Learning about Artificial Intelligence and Machine Learning.
+- 🐧 Comfortable exploring the Linux environment.
+- 💡 Always curious about how things work under the hood.
 
-- 🔭 I’m currently working on **NGFW**
+---
 
-- 🌱 I’m currently learning **AI, ML**
+## 🛠️ Tech Stack & Tools
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivansh788](https://github.com/Shivansh788)
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,go" alt="C, C++, Python, Java, JavaScript and Go">
+</p>
 
-- 💬 Ask me about **WEB DEVELOPMENT**
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" alt="HTML, CSS, JavaScript, React and Node.js">
+</p>
 
-- 📫 How to reach me **Shivanshsoni124gmail.com**
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma" alt="MongoDB, MySQL, Git, GitHub and Figma">
+</p>
 
- <!-- 📄 Know about my experiences [https://github.com/Shivansh788/Myresume-Doc/blob/main/MyResume.pdf](https://github.com/Shivansh788/Myresume-Doc/blob/main/Resume.pdf) -->
+### Operating Systems & Other Interests
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,blender" alt="Linux and Blender">
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<div id="header" align="center"
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-></div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh788&show_icons=true&locale=en&layout=compact" alt="shivansh788" /></p>
+## 📊 GitHub Statistics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh788&" alt="shivansh788" /></p>
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivansh788&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh788&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh788&theme=tokyonight&hide_border=true" alt="GitHub streak">
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Shivansh788">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:Shivanshsoni124@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "The best way to understand technology is to build with it and break it."
+
+**Thanks for visiting! ⭐**
+
+</div>
